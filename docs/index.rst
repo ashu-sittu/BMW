@@ -1,3 +1,7 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://navisolve.com/">
+
 How to Update BMW GPS Map? A Step-by-Step Guide
 ========================================
 .. toctree::
